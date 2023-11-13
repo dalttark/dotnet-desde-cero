@@ -1,0 +1,7 @@
+D:\proj\dotnet_webapi_advanced\MyVaccineAppSln\MyVaccine.WebApi\obj\Debug\net7.0\MyVaccine.WebApi.csproj.AssemblyReference.cache
+D:\proj\dotnet_webapi_advanced\MyVaccineAppSln\MyVaccine.WebApi\obj\Debug\net7.0\MyVaccine.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\proj\dotnet_webapi_advanced\MyVaccineAppSln\MyVaccine.WebApi\obj\Debug\net7.0\MyVaccine.WebApi.AssemblyInfoInputs.cache
+D:\proj\dotnet_webapi_advanced\MyVaccineAppSln\MyVaccine.WebApi\obj\Debug\net7.0\MyVaccine.WebApi.AssemblyInfo.cs
+D:\proj\dotnet_webapi_advanced\MyVaccineAppSln\MyVaccine.WebApi\obj\Debug\net7.0\MyVaccine.WebApi.csproj.CoreCompileInputs.cache
+D:\proj\dotnet_webapi_advanced\MyVaccineAppSln\MyVaccine.WebApi\obj\Debug\net7.0\MyVaccine.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\proj\dotnet_webapi_advanced\MyVaccineAppSln\MyVaccine.WebApi\obj\Debug\net7.0\MyVaccine.WebApi.MvcApplicationPartsAssemblyInfo.cache
